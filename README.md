@@ -1,6 +1,6 @@
-# PSX Multipurpose Classified Application
+# List91
 
-The PSX Multipurpose Classified Application is designed to make it easier than ever for users to buy and sell items in a safe, secure, and hassle-free manner. With our application, users can post and browse classified ads, connect with buyers and sellers, and find the perfect item for their needs.
+The List91 Application is designed to make it easier than ever for users to buy and sell items in a safe, secure, and hassle-free manner. With our application, users can post and browse classified ads, connect with buyers and sellers, and find the perfect item for their needs.
 
 Our application is designed with simplicity in mind. It is easy to use, and it provides a range of powerful features that make buying and selling simple and straightforward. Our application is also fully customizable, meaning that users can tailor the application to their needs, and create a unique and personalized experience.
 
